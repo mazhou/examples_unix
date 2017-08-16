@@ -69,8 +69,8 @@ list of libraries linked with certain executables.
 
 ------------------------------------------------------------------------------
 vim ~/.bashrc
-export ALGOWC_TOPDIR=/Users/zhouma/workspace/mygit/MasteringAlgorithms_C/examp-
-les_unix
+export ALGOWC_TOPDIR=/Users/zhouma/workspace/mygit/MasteringAlgorithms_C/exam-
+ples_unix
 
 source ~/.bashrc
 
